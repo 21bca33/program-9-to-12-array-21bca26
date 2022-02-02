@@ -1,4 +1,4 @@
-/*write a program to input any string and impliment strlen() and strcmp()
+///*write a program to input any string and impliment strlen() and strcmp()
 in a single program*/
 #include<stdio.h>
 #include<conio.h>
